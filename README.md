@@ -1,5 +1,3 @@
-Here’s a sample README for your **Spam Email Classifier** project:
-
 ---
 
 # **Spam Email Classifier**
